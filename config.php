@@ -1,14 +1,14 @@
 <?php
 session_start();
 
-/************	You can edit details starting from here ************/
-$dbhost = 'localhost';		// Write your MySQL host here.
-$dbuser = 'root';	// Write your MySQL User here.
-$dbpass = 'vertrigo';	// Write your MySQL Password here.
-$dbname = 'test_inv';		// Write the MySQL Database where you want to install Invento
+/************	Informacion de entrada ************/
+$dbhost = 'localhost';		// Host de MYSQL.
+$dbuser = 'root';	// Usuario de HOST.
+$dbpass = 'vertrigo';	//Password del HOST.
+$dbname = 'test_inv';		// Base de datos de HOST.
 
 
-/************ DON'T EDIT NOTHING BELOW ************/
+/************ Localizacion de errores. ************/
 
 
 
